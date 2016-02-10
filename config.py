@@ -14,5 +14,5 @@ SQLALCHEMY_MIGRATE_REPO = os.path.join(basedir, 'db_repository')
 DATABASE_CONNECT_OPTIONS = {}
 
 
-THREADS_PER_PAGE = 2
+THREADS_PER_PAGE = 1
 

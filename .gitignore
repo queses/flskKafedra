@@ -2,3 +2,5 @@
 *.sublime-workspace
 /__pycache__/
 __pycache__/
+.webassets-cache/
+.webassets-cache/*
